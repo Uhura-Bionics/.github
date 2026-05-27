@@ -23,9 +23,6 @@ Our hardware must be "invisible"—lightweight, long-lasting, and computationall
 * **DSP pipelines** optimized for low latency to ensure natural conversational flow.
 * Quantizing and deploying heavy neural models onto resource-constrained MCU/DSP environments.
 
-
- [**Read Our Research**](https://www.uhura.pl/story)
-
 ---
 
 ## Connect With Us
