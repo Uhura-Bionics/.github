@@ -10,7 +10,7 @@
 
 ## Core R&D Domains
 
-We are solving the "Atypical Speech" problem by intergratinghigh-performance hardware and real-time working software.
+We are solving the "Atypical Speech" problem by intergrating high-performance hardware and real-time working software.
 
 ###  Voice Synthesis & AI
 We develop proprietary models to transform monotone mechanical signals into rich, personalized human voices.
